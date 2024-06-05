@@ -1,4 +1,5 @@
----
+---git clone https://github.com/<your-organization>/n8n.git n8n
+cd n8n
 contentType: howto
 ---
 
